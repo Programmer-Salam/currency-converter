@@ -1,1 +1,3 @@
 # currency-converter
+
+I created a currency converter web application using Laravel, GuzzleHttp, and the ExchangeRate-API. The application allows users to select a base currency and a target currency from a list of supported currencies and enter an amount to convert. The application then retrieves the exchange rate from the ExchangeRate-API using GuzzleHttp and performs the conversion calculation. The result is displayed to the user in a separate page along with the exchange rate used for the conversion. Additionally, we added a table to display the list of supported currencies on the index page. The application was styled using Bootstrap to enhance the user interface.
